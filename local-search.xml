@@ -4,6 +4,43 @@
   
   
   <entry>
+    <title>BandwagonHost搬瓦工年末购买续费指南</title>
+    <link href="/2021/12/26/BandwagonHost%E6%90%AC%E7%93%A6%E5%B7%A5%E5%B9%B4%E6%9C%AB%E8%B4%AD%E4%B9%B0%E7%BB%AD%E8%B4%B9%E6%8C%87%E5%8D%97/"/>
+    <url>/2021/12/26/BandwagonHost%E6%90%AC%E7%93%A6%E5%B7%A5%E5%B9%B4%E6%9C%AB%E8%B4%AD%E4%B9%B0%E7%BB%AD%E8%B4%B9%E6%8C%87%E5%8D%97/</url>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>又到了年末，MJJ们换机续费的时间😏😏，像我这样对服务器性能没有很高要求，注重上网的穷人肯定还是坚守 </p><h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>说实话今年科学上网还是推荐<strong>搬瓦工&#x2F;BandwagonHost</strong>，尤其是169刀洛杉矶套餐（香港日本CN2套餐的土豪当我没说😂）毕竟三网回程CN2GIA+2.5Gbps带宽+20G SSD对于不想用机场的翻墙党来说还是很有吸引力的，用完常规优惠码年付大概能便宜20刀左右。虽然比azure aws贵上不少但盖不住人家瓦工晚高峰稳定高速不丢包，除非整个CN2的IP段被打或者中美光缆故障，或者你自己骚操作被封端口&#x2F;IP，否则搬瓦工稳如狗。总是看到群里说搬瓦工超售体验差，经过将近一年的使用下来我觉得不存在超售的情况，硬盘IO优秀，晚高峰不丢包，搬瓦工依旧值得推荐。</p><h2 id="购买"><a href="#购买" class="headerlink" title="购买"></a>购买</h2><p>链接：<a href="https://bandwagonhost.com/aff.php?aff=67292">https://bandwagonhost.com/aff.php?aff=67292</a> 点此注册购买<br>注册需要一个邮箱（最好是国内的）填写姓名地址，完成之后在 All Services 列表里找到 <strong>SPECIAL 20G KVM PROMO V5 - LOS ANGELES - CN2 GIA ECOMMERCE VPS</strong> 169年付那款（推荐年付，搬瓦工大厂跑路几率很低，年付优惠力度大），购买可以用优惠码：BWH3HYATVBJW，循环优惠续费。</p><p><em>2022.1.2更新：搬瓦工新年优惠码BWHNY2022</em><br>12.22%循环优惠续费不涨价！！<br><img src="/images/lacn2.png"></p><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>提前祝大家2022新年快乐，事事顺心🎉</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>虚拟主机</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>BandwagonHost</tag>
+      
+      <tag>搬瓦工</tag>
+      
+      <tag>VPS</tag>
+      
+      <tag>服务器</tag>
+      
+      <tag>虚拟主机</tag>
+      
+      <tag>科学上网</tag>
+      
+      <tag>代理</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>大家好！！</title>
     <link href="/2020/12/01/hello-world/"/>
     <url>/2020/12/01/hello-world/</url>
